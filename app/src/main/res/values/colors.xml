@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="turquoise_fond">#2BB8E8</color>   <!-- fond de la zone du haut -->
+    <color name="turquoise_touche">#1BA6C9</color> <!-- chiffres du clavier -->
+    <color name="rouge_clair">#F0727A</color>      <!-- touche C -->
+    <color name="clavier_fond">#F5F7F9</color>     <!-- fond clair du clavier -->
+    <color name="blanc">#FFFFFF</color>
+</resources>
